@@ -1,2 +1,3 @@
 name: Victor Karpov, not magician
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
